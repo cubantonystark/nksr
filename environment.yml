@@ -36,7 +36,7 @@ dependencies:
   - pyg
   - rich
   - pandas
-  - pytorch-scatter
+  - torch-scatter
   - omegaconf
   - flatten-dict
   - pyntcloud
