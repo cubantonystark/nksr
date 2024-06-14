@@ -5,7 +5,7 @@ channels:
   - pytorch
   - conda-forge
 dependencies:
-  - python=3.11                   # Fix version for reproducibility
+  - python=3.9                    # Fix version for reproducibility
   - pytorch=2.0.0                 # |
   - pytorch-lightning=1.9.4       # |
   - libprotobuf=3.19.6    # Protobuf
@@ -36,7 +36,7 @@ dependencies:
   - pyg
   - rich
   - pandas
-  - torch-scatter=2.1.1
+  - torch-scatter=2.1.2
   - omegaconf
   - flatten-dict
   - pyntcloud
