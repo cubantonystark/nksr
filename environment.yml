@@ -43,6 +43,7 @@ dependencies:
   - flatten-dict
   - pyntcloud
   - pip:
+    - torch-scatter
     - -f https://pycg.huangjh.tech/packages/index.html
     - python-pycg[full]==0.5.2
     - randomname
